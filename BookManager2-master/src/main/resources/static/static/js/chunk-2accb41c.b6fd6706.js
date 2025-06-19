@@ -30,7 +30,7 @@
                         staticClass: "title-container"
                     }, [e("h3", {
                         staticClass: "title"
-                    }, [t._v("凌志LKG图书管理系统-登录界面_ZKX")])]), e("el-form-item", {
+                    }, [t._v("凌志LKG图书管理系统-登录界面_ZKX_BY_Jenkins")])]), e("el-form-item", {
                         attrs: {
                             prop: "username"
                         }
